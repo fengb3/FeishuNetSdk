@@ -42,4 +42,8 @@
         <PackageReference Include="WebApiClientCore.Extensions.OAuths" Version="2.1.4" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="FeishuEvent\V2\.DS_Store" />
+    </ItemGroup>
+
 </Project>
